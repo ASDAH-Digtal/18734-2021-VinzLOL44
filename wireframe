@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T00:03:43.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="aI_8qRltqzTF-7NzgX9x" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T21:07:04.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="rXpNkjIBbcG5BFFxpvd5" version="14.9.8" type="github">
   <diagram id="CvMmZfaMPfUembU3rt8o" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="180" y="350" width="520" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Y-eZFYZo0d-N9kVJn1FG-5" value="#6a994e" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Y-eZFYZo0d-N9kVJn1FG-1" vertex="1">
-          <mxGeometry x="610" y="210" width="40" height="20" as="geometry" />
+          <mxGeometry x="640" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y-eZFYZo0d-N9kVJn1FG-8" value="What Is Minecraft?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="Y-eZFYZo0d-N9kVJn1FG-1" vertex="1">
           <mxGeometry x="345" y="360" width="165" height="20" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="1DKfBjgEU8nXqcUrL7U6-14" value="What can you do in Minecraft?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="760" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lvps99yV6KDM-4RqwRhV-1" value="#99D98C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lvps99yV6KDM-4RqwRhV-1" value="#99D98C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="480" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
