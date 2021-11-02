@@ -11,11 +11,14 @@ Date:
     "header header header"
     "side1 section1 section1"
     "section2 videoSection side2"
+    "references references references"
     "footer footer footer";
 }
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
+    text-align: center;
+    background-color: #6a994e;
 }
 
 .main{ /*DO NOT REMOVE*/
@@ -40,6 +43,10 @@ Date:
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+}
+
+.references{
+  grid-area: references;
 }
 
 .footer{ /*DO NOT REMOVE*/
